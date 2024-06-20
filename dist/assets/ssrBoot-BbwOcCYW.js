@@ -1,0 +1,1 @@
+import{x as s,a4 as t,y as a,q as e}from"./index-CkMS19-m.js";const i="/assets/avatar-1-CxOKCzdw.png";function u(){const o=s(!1);return t(()=>{window.requestAnimationFrame(()=>{o.value=!0})}),{ssrBootStyles:a(()=>o.value?void 0:{transition:"none !important"}),isBooted:e(o)}}export{i as a,u};
